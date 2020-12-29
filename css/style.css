@@ -609,7 +609,7 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75);
 }
 .services:hover .icon, .services:focus .icon {
-  background: #007CB9;
+  background: #A6A6A6;
   -webkit-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
   -moz-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
   -ms-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
@@ -946,8 +946,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-started .btn {
   height: 54px;
-  border: none !important;
-  background: #F95959;
+  background: #561B49;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
