@@ -390,7 +390,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 18px;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .btn:hover {
-  background: #B497D6 !important;
+  background: #A6A6A6 !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -870,6 +870,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+
 }
 .fh5co-staff h3 {
   font-size: 24px;
@@ -1333,11 +1334,11 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn-primary {
   background: #561B49;
   color: #fff;
-  border: 2px solid #B497D6;
+  border: 2px solid #A6A6A6;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #B497D6 !important;
-  border-color: #B497D6 !important;
+  background: #A6A6A6 !important;
+  border-color: #A6A6A6 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
