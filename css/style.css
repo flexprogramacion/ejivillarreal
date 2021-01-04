@@ -42,7 +42,7 @@ body {
   bottom: 0;
   left: 0;
   z-index: 101;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.5);
   content: "";
 }
 
@@ -946,6 +946,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-started .btn {
   height: 54px;
+  border-radius: 2px solid #A6A6A6;
   background: #561B49;
   color: #fff;
   font-size: 16px;
